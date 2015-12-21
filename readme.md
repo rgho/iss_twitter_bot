@@ -1,5 +1,5 @@
 ### About
-This is a quick and dirty example of a twitter bot. It posts latitude, longitude, velocity, and altitude of the International Space center to twitter.
+This is a simple example of a twitter bot using tweepy. It posts latitude, longitude, velocity, and altitude of the International Space center to twitter.
 
 ### Install and Run
 ```sh
